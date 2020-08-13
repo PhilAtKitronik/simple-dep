@@ -1,0 +1,15 @@
+{
+    "name": "simple-dep",
+    "version": "0.0.1",
+    "description": "Base code for trail of code",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "simple_dep.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
